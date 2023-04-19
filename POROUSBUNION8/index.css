@@ -1,0 +1,17 @@
+nav#menu {
+    background-color: red;
+    justify-content:space-between;
+    display: flex;
+    height: 40px;
+
+}
+nav ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    list-style: none;
+}
+nav{
+    margin: 0;
+    padding: 0;
+}
